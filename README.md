@@ -33,8 +33,11 @@ This is a static web page deployed to github pages, so no installation needed.
 ![Horiseon](assets/images/website-screenshot.png)
 
 ## Deployable link and Repo link
-Deployable link :
+
+Deployable link : https://raelnw.github.io/semantic-html/
+
 Repo link : https://github.com/RaelNW/semantic-html
+
 ## Author
 
 To learn more about the author and other repository here is a link to their GitHub profile. https://github.com/RaelNW
